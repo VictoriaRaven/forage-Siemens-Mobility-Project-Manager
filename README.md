@@ -13,7 +13,7 @@ Other Links:
 
 This is a completion of the Forage Siemens Mobility Project-Manager regarding a case to analyze the data, the KPI, the goals, and achive those goals to improve the company.
 * Task 1: Write the Project Plan based on the Template given and modify it to your analysis based on the goals and KPI knowledge.
-* Task 2: PPTX of Task 1, but relating to the case (no audio as it is a very large file).
+* Task 2: Modifying the EXCEL file of Task 1.
 * Completed by 3/22/20225 by VictoriaRaven
 
 ### What is on resume/linkedin:
