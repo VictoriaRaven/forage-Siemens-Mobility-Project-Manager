@@ -15,6 +15,7 @@ This is a completion of the Forage Siemens Mobility Project-Manager regarding a 
 * Task 1: Write the Project Plan based on the Template given and modify it to your analysis based on the goals and KPI knowledge.
 * Task 2: Modifying the EXCEL file of Task 1.
 * Completed by 3/22/20225 by VictoriaRaven
+* Time to complete all tasks (3/22/2025-3/23/2025) about 4 hours to complete alongside with UMGC classes.
 
 ### What is on resume/linkedin:
 Siemens Mobility Project Manager Job Simulation on Forage - March 2025
